@@ -2,6 +2,8 @@
 
 A realistic air hockey game with Deep Q-Network (DQN) AI implementation using PyGame and PyTorch. Features advanced physics simulation, intelligent AI agents, and comprehensive training capabilities.
 
+![Rec0086-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/34046d28-eec2-46d4-84b4-3b90c864af93)
+
 ![Air Hockey Demo](airhockey_training_results.png)
 
 ## 🎮 Features
